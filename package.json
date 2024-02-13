@@ -8,6 +8,7 @@
     "typecheck": "vue-tsc --noEmit"
   },
   "dependencies": {
+    "@vue/typescript": "^1.8.20",
     "vue": "^3.2.31"
   },
   "devDependencies": {
